@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="EnderYO Icon" src="UntitledToght.png" width="128">
+<img alt="EnderYO Icon" src="https://github.com/EnderYO/.github/raw/main/profile/UntitledToght.png" width="128">
 
 # EnderYO
 </div>
